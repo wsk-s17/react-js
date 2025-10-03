@@ -1,1 +1,1 @@
-# VelOrda Mobile App
+# React JS Template
